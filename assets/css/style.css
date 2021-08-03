@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #212121;
+}
+
+.header {
+    width: 100%;
+    z-index: 1;
+    background-color: yellow;
+}
+
+.colorFondo {}
+
+.headerStyle {
+    background-color: yellow;
+}
+
+.datosPersonajes {
+    margin-top: 140px;
+    margin-bottom: 60px;
+}
+
+.datosPeliculas {
+    margin-top: 140px;
+    margin-bottom: 60px;
+}
+
+.datosPlanetas {
+    margin-top: 140px;
+    margin-bottom: 60px;
+}
+
+.datosNaves {
+    margin-top: 140px;
+    margin-bottom: 60px;
+}
+
+.datosEspecies {
+    margin-top: 140px;
+    margin-bottom: 60px;
+}
+
+.datosVehiculos {
+    margin-top: 140px;
+    margin-bottom: 60px;
+}
